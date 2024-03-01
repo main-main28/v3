@@ -31,7 +31,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e " ${CYAN} ┌─────────────────────────────────────────────────┐${NC}"
-echo -e " ${CYAN} │ ${BG_RED}               ARISCTUNNEL V3                  ${NC} ${CYAN}│$NC"
+echo -e " ${CYAN} │ ${BG_RED}               ADIJAYA TUNNELING                  ${NC} ${CYAN}│$NC"
 echo -e " ${CYAN} └─────────────────────────────────────────────────┘${NC}"
 echo ""
 if [[ $( uname -m | awk '{print $1}' ) == "x86_64" ]]; then
